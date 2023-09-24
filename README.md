@@ -1,7 +1,7 @@
 ### Python Frameworks:
 
 * **Spiral** [[GitHub Repository](https://github.com/cnrl/Spiral)]
-<br/>A python package for spiking neural network simulation using PyTorch on CUDA or CPU. This package tries to bring its design as close as possible to biological observations of how the nervous system functions. We have a long way to go for a mature package that covers all needs you might have dealing with spiking neural networks. Yet this package is still an infant child.
+<br/>A python package for spiking neural network simulation using PyTorch on CUDA or CPU. This package tries to bring its design as close as possible to biological observations of how the nervous system functions. We have a long way to go for a mature package that covers all the needs you might have dealing with spiking neural networks. Yet this package is still an infant child.
 
 ### Python packages:
 
@@ -15,7 +15,7 @@
 <br/> This package creates a simple user interface for creating subfigures when working with matplotlib.
 
 * **Constant Properties Protector/** [[GitHub Repository](https://github.com/ShayeghB/constant-properties-protector)] [[PyPi](https://pypi.org/project/constant-properties-protector/)] [[PyPI Stats](https://pypistats.org/packages/constant-properties-protector)] [[PePy](https://www.pepy.tech/projects/constant-properties-protector)]
-<br/> With the help of this module, you can protect some of the properties in a class. Protecting means avoiding to change them but keep them publicly available.
+<br/> With the help of this module, you can protect some of the properties in a class. Protecting means avoiding changing them but keeping them publicly available.
 
 ### LaTeX Templates
 
@@ -33,7 +33,12 @@
 <br/> It contains a set of problems; each problem has one or more wrong or incomplete answers that cover the most common mistakes made in that subject. We explain each error in detail and provide a complete solution at the end to help the reader understand the points. It has been written in Persian.
 
 * **Python Exercises** (English) [[GitHub Repository](https://github.com/ShayeghB/PythonTutorialExercises)]
-<br/>A jupyter notebook that brings up and solves a series of python exercises that prepared for a data science workshop.
+<br/>A Jupyter notebook that brings up and solves a series of Python exercises that are prepared for a data science workshop.
 
 * **Basic C++ Exercises** (Persian) [[GitHub Repository](https://github.com/ShayeghB/ExtraSolutionsAndCodes-44plus45/)]
 <br/> Brings up and solves many basic exercises in C++. It has been written in Persian.
+
+### Other Tools and Stuff
+
+* **Bracket-based Tree Visualizer** [[Tool](https://shayeghb.github.io/BracketBased3Visualizer/)]
+<br/> Minimal visualizer for constituency trees. It receives the bracket-based representation of a tree (explained in the tool itself) and visualizes it graphically.
