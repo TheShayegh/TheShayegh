@@ -21,6 +21,9 @@
 
 * Persian Textbook (Math-related) [[GitHub Repository](https://github.com/OpenBookshelf/PersianTextbookTemplate)] [[LinkedIn Post](https://www.linkedin.com/posts/shayeghb_github-openbookshelfpersiantextbooktemplate-activity-7111515543085412352-DskN?utm_source=share&utm_medium=member_desktop)]
 
+### Papers' Implementations
+* Ensemble Distillation for Unsupervised Constituency Parsing [[GitHub Repository](https://github.com/MANGA-UOFA/ED4UCP)] [[Paper](https://arxiv.org/abs/2310.01717v1)] [[Papers with Code](https://paperswithcode.com/paper/ensemble-distillation-for-unsupervised)]
+
 ### Educational Contents
 
 * **Discrete Mathematics Persian Book** [[GitHub Repository](https://github.com/OpenBookshelf/DiscreteMathematics-Persian)]
@@ -42,3 +45,11 @@
 
 * **Bracket-based Tree Visualizer** [[Tool](https://shayeghb.github.io/BracketBased3Visualizer/)]
 <br/> Minimal visualizer for constituency trees. It receives the bracket-based representation of a tree (explained in the tool itself) and visualizes it graphically.
+
+### Open-Source Pull Requests
+* Unsupervised Parsing via Constituency Tests [[Repo](https://github.com/stevenxcao/constituency-test-parser)] [[Pull](https://github.com/stevenxcao/constituency-test-parser/pull/2)]
+* VecMap (cross-lingual word embedding mappings) [[Repo](https://github.com/artetxem/vecmap)] [[Pull](https://github.com/artetxem/vecmap/pull/38)]
+* Normalized Bijankhan Corpus (merged) [[Repo](https://github.com/tihu-nlp/normalized_bijankhan)] [[Pull](https://github.com/tihu-nlp/normalized_bijankhan/pull/3)]
+
+---
+<a href="https://shayeghb.github.io/"><img src="https://shayeghb.github.io/img/favicon.png" style="background-color:red;"/></a>
