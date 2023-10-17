@@ -14,7 +14,7 @@
 * **Matplotlib Dashboard** [[GitHub Repository](https://github.com/ShayeghB/matplotlib-dashboard)] [[PyPi](https://pypi.org/project/matplotlib-dashboard/)] [[PyPI Stats](https://pypistats.org/packages/add-on-class)] [[PePy](https://www.pepy.tech/projects/matplotlib-dashboard)] [[LinkedIn Post](https://www.linkedin.com/posts/shayeghb_matplotlib-dashboard-activity-6987923239796695040-vFRH?utm_source=share&utm_medium=member_desktop)]
 <br/> This package creates a simple user interface for creating subfigures when working with matplotlib.
 
-* **Constant Properties Protector/** [[GitHub Repository](https://github.com/ShayeghB/constant-properties-protector)] [[PyPi](https://pypi.org/project/constant-properties-protector/)] [[PyPI Stats](https://pypistats.org/packages/constant-properties-protector)] [[PePy](https://www.pepy.tech/projects/constant-properties-protector)]
+* **Constant Properties Protector** [[GitHub Repository](https://github.com/ShayeghB/constant-properties-protector)] [[PyPi](https://pypi.org/project/constant-properties-protector/)] [[PyPI Stats](https://pypistats.org/packages/constant-properties-protector)] [[PePy](https://www.pepy.tech/projects/constant-properties-protector)]
 <br/> With the help of this module, you can protect some of the properties in a class. Protecting means avoiding changing them but keeping them publicly available.
 
 ### LaTeX Templates
