@@ -47,7 +47,7 @@
 <br/> Minimal visualizer for constituency trees. It receives the bracket-based representation of a tree (explained in the tool itself) and visualizes it graphically.
 
 ### Open-Source Pull Requests
-* Unsupervised Parsing via Constituency Tests [[Repo](https://github.com/stevenxcao/constituency-test-parser)] [[Pull](https://github.com/stevenxcao/constituency-test-parser/pull/2)]
+* Unsupervised Parsing via Constituency Tests (merged) [[Repo](https://github.com/stevenxcao/constituency-test-parser)] [[Pull](https://github.com/stevenxcao/constituency-test-parser/pull/2)]
 * VecMap (cross-lingual word embedding mappings) [[Repo](https://github.com/artetxem/vecmap)] [[Pull](https://github.com/artetxem/vecmap/pull/38)]
 * Normalized Bijankhan Corpus (merged) [[Repo](https://github.com/tihu-nlp/normalized_bijankhan)] [[Pull](https://github.com/tihu-nlp/normalized_bijankhan/pull/3)]
 
