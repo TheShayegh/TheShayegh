@@ -23,6 +23,8 @@
 
 ### Papers' Implementations
 * Ensemble Distillation for Unsupervised Constituency Parsing [[GitHub Repository](https://github.com/MANGA-UOFA/ED4UCP)] [[Paper](https://arxiv.org/abs/2310.01717v1)] [[Papers with Code](https://paperswithcode.com/paper/ensemble-distillation-for-unsupervised)]
+* Locating Street Addresses from Informal Per-
+sian Texts using IDF-Adapted Kernel-Based Hierarchical Bayesian Models [[GitHub Repository](https://github.com/ShayeghB/PAT)] [[Article](https://shayeghb.github.io/PAT/)]
 
 ### Educational Contents
 
