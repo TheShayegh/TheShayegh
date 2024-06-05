@@ -22,7 +22,8 @@
 * Persian Textbook (Math-related) [[GitHub Repository](https://github.com/OpenBookshelf/PersianTextbookTemplate)] [[LinkedIn Post](https://www.linkedin.com/posts/shayeghb_github-openbookshelfpersiantextbooktemplate-activity-7111515543085412352-DskN?utm_source=share&utm_medium=member_desktop)]
 
 ### Papers' Implementations
-* Ensemble Distillation for Unsupervised Constituency Parsing [[GitHub Repository](https://github.com/MANGA-UOFA/ED4UCP)] [[Paper](https://arxiv.org/abs/2310.01717v1)] [[Papers with Code](https://paperswithcode.com/paper/ensemble-distillation-for-unsupervised)]
+* Tree-Averaging Algorithms for Ensemble-Based Unsupervised Discontinuous Constituency Parsing [[GitHub Repository](https://github.com/MANGA-UOFA/TAA4EUDCP)] [[Paper](#)]
+* Ensemble Distillation for Unsupervised Constituency Parsing [[GitHub Repository](https://github.com/MANGA-UOFA/ED4UCP)] [[Paper](https://openreview.net/forum?id=RR8y0WKrFv)]
 * Locating Street Addresses from Informal Per-
 sian Texts using IDF-Adapted Kernel-Based Hierarchical Bayesian Models [[GitHub Repository](https://github.com/ShayeghB/PAT)] [[Article](https://shayeghb.github.io/PAT/)]
 
