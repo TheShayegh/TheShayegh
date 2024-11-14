@@ -24,8 +24,7 @@
 ### Papers' Implementations
 * Tree-Averaging Algorithms for Ensemble-Based Unsupervised Discontinuous Constituency Parsing [[GitHub Repository](https://github.com/MANGA-UOFA/TAA4EUDCP)] [[Paper](#)]
 * Ensemble Distillation for Unsupervised Constituency Parsing [[GitHub Repository](https://github.com/MANGA-UOFA/ED4UCP)] [[Paper](https://openreview.net/forum?id=RR8y0WKrFv)]
-* Locating Street Addresses from Informal Per-
-sian Texts using IDF-Adapted Kernel-Based Hierarchical Bayesian Models [[GitHub Repository](https://github.com/TheShayegh/PAT)] [[Article](https://TheShayegh.github.io/PAT/)]
+* Geolocating Addresses from Informal Persian Texts using Hierarchical Kernel-Based Bayesian Models [[GitHub Repository](https://github.com/TheShayegh/PAT)] [[Article](https://TheShayegh.github.io/PAT/)]
 
 ### Educational Contents
 
