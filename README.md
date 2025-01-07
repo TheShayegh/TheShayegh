@@ -22,7 +22,8 @@
 * Persian Textbook (Math-related) [[GitHub Repository](https://github.com/OpenBookshelf/PersianTextbookTemplate)] [[LinkedIn Post](https://www.linkedin.com/posts/shayeghb_github-openbookshelfpersiantextbooktemplate-activity-7111515543085412352-DskN?utm_source=share&utm_medium=member_desktop)]
 
 ### Papers' Implementations
-* Tree-Averaging Algorithms for Ensemble-Based Unsupervised Discontinuous Constituency Parsing [[GitHub Repository](https://github.com/MANGA-UOFA/TAA4EUDCP)] [[Paper](#)]
+* Error Diversity Matters: An Error-Resistant Ensemble Method for Unsupervised Dependency Parsing [[GitHub Repository](https://github.com/MANGA-UOFA/ED4UDP)] [[Paper](#)]
+* Tree-Averaging Algorithms for Ensemble-Based Unsupervised Discontinuous Constituency Parsing [[GitHub Repository](https://github.com/MANGA-UOFA/TAA4EUDCP)] [[Paper](https://aclanthology.org/2024.acl-long.808/)]
 * Ensemble Distillation for Unsupervised Constituency Parsing [[GitHub Repository](https://github.com/MANGA-UOFA/ED4UCP)] [[Paper](https://openreview.net/forum?id=RR8y0WKrFv)]
 * Geolocating Addresses from Informal Persian Texts using Hierarchical Kernel-Based Bayesian Models [[GitHub Repository](https://github.com/TheShayegh/PAT)] [[Article](https://TheShayegh.github.io/PAT/)]
 
