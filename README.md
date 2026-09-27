@@ -25,7 +25,8 @@
 * Persian Textbook (Math-related) [[GitHub Repository](https://github.com/OpenBookshelf/PersianTextbookTemplate)] [[LinkedIn Post](https://www.linkedin.com/posts/shayeghb_github-openbookshelfpersiantextbooktemplate-activity-7111515543085412352-DskN?utm_source=share&utm_medium=member_desktop)]
 
 ### Papers' Implementations
-* Error Diversity Matters: An Error-Resistant Ensemble Method for Unsupervised Dependency Parsing [[GitHub Repository](https://github.com/MANGA-UOFA/ED4UDP)] [[Paper](#)]
+* Mind Which Bird You Favour: Parameterizing Adequacy–Fluency Balance in Meta-Evaluation of Machine Translation [[GitHub Repository]([https://github.com/MANGA-UOFA/ED4UDP](https://github.com/TheShayegh/adequacy-fluency-param))] [[Paper](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=mYwraykAAAAJ&citation_for_view=mYwraykAAAAJ:Y0pCki6q_DkC)]
+* Error Diversity Matters: An Error-Resistant Ensemble Method for Unsupervised Dependency Parsing [[GitHub Repository](https://github.com/MANGA-UOFA/ED4UDP)] [[Paper](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=mYwraykAAAAJ&citation_for_view=mYwraykAAAAJ:UeHWp8X0CEIC)]
 * Tree-Averaging Algorithms for Ensemble-Based Unsupervised Discontinuous Constituency Parsing [[GitHub Repository](https://github.com/MANGA-UOFA/TAA4EUDCP)] [[Paper](https://aclanthology.org/2024.acl-long.808/)]
 * Ensemble Distillation for Unsupervised Constituency Parsing [[GitHub Repository](https://github.com/MANGA-UOFA/ED4UCP)] [[Paper](https://openreview.net/forum?id=RR8y0WKrFv)]
 * Geolocating Addresses from Informal Persian Texts using Hierarchical Kernel-Based Bayesian Models [[GitHub Repository](https://github.com/TheShayegh/PAT)] [[Article](https://TheShayegh.github.io/PAT/)]
